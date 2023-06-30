@@ -19,19 +19,19 @@ Happy Stargazing! 🌠
 
 <p align="center">
 Want to remain in touch with the upcoming and exciting events? Connect with us! <br> <br>
-<a href="https://astroclubiitk.github.io" >
+<a href="https://astroclubiitk.github.io" target="_blank" >
 <img src="https://img.shields.io/badge/-Visit_Our_Homepage-0697AE?style=flat-square&logo=appveyor&logoColor=white&link=https://astroclubiitk.github.io"></img>
 </a>
 <a href="mailto:astroclub@iitk.ac.in">
 <img src="https://img.shields.io/badge/-Contact_Us-BC4E48?style=flat-square&logo=Gmail&logoColor=white&link=mailto:astronomyclub.iitk@gmail.com" />
 </a>
-<a href="https://www.facebook.com/AstroClubIITK/">
+<a href="https://www.facebook.com/AstroClubIITK/" target="_blank">
 <img src="https://img.shields.io/badge/-Facebook-116BBC?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/AstroClubIITK/" /> 
 </a>
-<a href="https://www.instagram.com/astroclub.iitk/">
+<a href="https://www.instagram.com/astroclub.iitk/" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/astroclub.iitk/" /> 
 </a>
-<a href="https://linkedin.com/company/astroclubiitk">
+<a href="https://linkedin.com/company/astroclubiitk" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/company/astroclubiitk"  />
 </a>
 <a href="http://github.com/astroclubiitk">
