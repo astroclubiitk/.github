@@ -11,7 +11,7 @@ In case of any query feel free to reach out any of the coordinators:
 
 [`Astitva Roy`](https://github.com/Asgardian-Lord) [💬](mailto:astitvaroy22@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
 [`Ayush Bokad`](https://github.com/Ayush-Bokad) [💬](mailto:bokadayush22@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
-[`Sohel Saini`](https://github.com/SohelSaini)  [💬](mailto:sohels22@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
+[`Sohel Saini`](https://github.com/SohelSaini)  [💬](mailto:sohels22@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
 [`Tanish Singla`](https://github.com/tanish-singla)  [💬](mailto:tanishs22@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
 
 </p>
