@@ -11,8 +11,8 @@ In case of any query feel free to reach out any of the coordinators:
 
 [`Chhavi Tanwar`](https://github.com/) [💬](mailto:chhavit23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
 [`Devansh Kartik`](https://github.com/devanshk007) [💬](mailto:devanshk23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
-[`Pearl Narang`](https://github.com/)  [💬](mailto:pearln23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
-[`Tarushi Srivastava`](https://github.com/pearln09)  [💬](mailto:starushi23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
+[`Pearl Narang`](https://github.com/pearln09)  [💬](mailto:pearln23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
+[`Tarushi Srivastava`](https://github.com/)  [💬](mailto:starushi23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
 
 </p>
 Happy Stargazing! 🌠 
