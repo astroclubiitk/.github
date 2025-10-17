@@ -9,10 +9,10 @@ This region of space would be devoted to the projects undertaken by the Club, ra
 <p><img src="https://github-readme-stats.vercel.app/api?username=astroclubiitk&show_icons=true&theme=radical" align="right" />
 In case of any query feel free to reach out any of the coordinators:
 
-[`Astitva Roy`](https://github.com/Asgardian-Lord) [💬](mailto:astitvaroy22@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
-[`Ayush Bokad`](https://github.com/Ayush-Bokad) [💬](mailto:bokadayush22@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
-[`Sohel Saini`](https://github.com/SohelSaini)  [💬](mailto:sohels22@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
-[`Tanish Singla`](https://github.com/tanish-singla)  [💬](mailto:tanishs22@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
+[`Chhavi Tanwar`](https://github.com/) [💬](mailto:chhavit23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
+[`Devansh Kartik`](https://github.com/devanshk007) [💬](mailto:devanshk23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
+[`Pearl Narang`](https://github.com/)  [💬](mailto:pearln23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
+[`Tarushi Srivastava`](https://github.com/pearln09)  [💬](mailto:starushi23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
 
 </p>
 Happy Stargazing! 🌠 
