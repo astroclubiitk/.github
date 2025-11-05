@@ -9,10 +9,10 @@ This region of space would be devoted to the projects undertaken by the Club, ra
 <p><img src="https://github-readme-stats.vercel.app/api?username=astroclubiitk&show_icons=true&theme=radical" align="right" />
 In case of any query feel free to reach out any of the coordinators:
 
-[`Chhavi Tanwar`](https://github.com/) [💬](mailto:chhavit23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
+[`Chhavi Tanwar`](https://github.com/Chhavi0711) [💬](mailto:chhavit23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
 [`Devansh Kartik`](https://github.com/devanshk007) [💬](mailto:devanshk23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
 [`Pearl Narang`](https://github.com/pearln09)  [💬](mailto:pearln23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)<br>
-[`Tarushi Srivastava`](https://github.com/)  [💬](mailto:starushi23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
+[`Tarushi Srivastava`](https://github.com/srivastavatarushi07)  [💬](mailto:starushi23@iitk.ac.in?subject=[GitHub]%20Source%20Han%20Sans)
 
 </p>
 Happy Stargazing! 🌠 
